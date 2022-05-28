@@ -1,8 +1,7 @@
-//dichiariamo le librerie qui:
-#include <iostream>
+#include <iostream> // includo qui la libreria <iostream>
 using namespace std; 
 
 int main(){
-    cout<<"Ciao Mondo!"<<endl;
+    cout << "Ciao Mondo!" << endl;
     return 0;    
 }
